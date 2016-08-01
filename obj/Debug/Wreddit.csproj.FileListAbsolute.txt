@@ -1,0 +1,6 @@
+C:\Users\Jay\Documents\Visual Studio 2010\Wreddit\Wreddit\bin\Debug\Wreddit.dll
+C:\Users\Jay\Documents\Visual Studio 2010\Wreddit\Wreddit\bin\Debug\Wreddit.pdb
+C:\Users\Jay\Documents\Visual Studio 2010\Wreddit\Wreddit\obj\Debug\Wreddit.dll
+C:\Users\Jay\Documents\Visual Studio 2010\Wreddit\Wreddit\obj\Debug\Wreddit.pdb
+C:\Users\Jay\Documents\Visual Studio 2010\Wreddit\Wreddit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay\Documents\Visual Studio 2010\Wreddit\Wreddit\bin\Debug\Newtonsoft.Json.xml
